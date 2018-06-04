@@ -1,0 +1,9 @@
+c:\users\pprabakar\documents\visual studio 2015\Projects\TimeSheet\BLL\bin\Debug\BLL.dll
+c:\users\pprabakar\documents\visual studio 2015\Projects\TimeSheet\BLL\bin\Debug\BLL.pdb
+c:\users\pprabakar\documents\visual studio 2015\Projects\TimeSheet\BLL\bin\Debug\DAL.dll
+c:\users\pprabakar\documents\visual studio 2015\Projects\TimeSheet\BLL\bin\Debug\STO.dll
+c:\users\pprabakar\documents\visual studio 2015\Projects\TimeSheet\BLL\bin\Debug\DAL.pdb
+c:\users\pprabakar\documents\visual studio 2015\Projects\TimeSheet\BLL\bin\Debug\STO.pdb
+c:\users\pprabakar\documents\visual studio 2015\Projects\TimeSheet\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+c:\users\pprabakar\documents\visual studio 2015\Projects\TimeSheet\BLL\obj\Debug\BLL.dll
+c:\users\pprabakar\documents\visual studio 2015\Projects\TimeSheet\BLL\obj\Debug\BLL.pdb

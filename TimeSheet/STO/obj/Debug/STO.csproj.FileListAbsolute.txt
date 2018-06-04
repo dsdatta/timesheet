@@ -1,0 +1,5 @@
+c:\users\pprabakar\documents\visual studio 2015\Projects\TimeSheet\STO\bin\Debug\STO.dll
+c:\users\pprabakar\documents\visual studio 2015\Projects\TimeSheet\STO\bin\Debug\STO.pdb
+c:\users\pprabakar\documents\visual studio 2015\Projects\TimeSheet\STO\obj\Debug\STO.dll
+c:\users\pprabakar\documents\visual studio 2015\Projects\TimeSheet\STO\obj\Debug\STO.pdb
+C:\Users\pprabakar\documents\visual studio 2015\Projects\TimeSheet\STO\obj\Debug\STO.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+c:\users\pprabakar\documents\visual studio 2015\Projects\TimeSheet\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\pprabakar\documents\visual studio 2015\Projects\TimeSheet\DAL\bin\Debug\DAL.dll
+c:\users\pprabakar\documents\visual studio 2015\Projects\TimeSheet\DAL\bin\Debug\DAL.pdb
+c:\users\pprabakar\documents\visual studio 2015\Projects\TimeSheet\DAL\bin\Debug\STO.dll
+c:\users\pprabakar\documents\visual studio 2015\Projects\TimeSheet\DAL\bin\Debug\STO.pdb
+c:\users\pprabakar\documents\visual studio 2015\Projects\TimeSheet\DAL\obj\Debug\DAL.dll
+c:\users\pprabakar\documents\visual studio 2015\Projects\TimeSheet\DAL\obj\Debug\DAL.pdb
